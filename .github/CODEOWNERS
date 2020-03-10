@@ -7,8 +7,8 @@
 # Remember, *the last rule to match wins.*
 
 # Documentation
-*.md                @mpurdon/
+*.md                @mpurdon
 /docs/*
 
 # Source
-*.go              @mpurdon/sql-opt-prs
+*.go              @mpurdon
